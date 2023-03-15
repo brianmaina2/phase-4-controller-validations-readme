@@ -233,3 +233,13 @@ Before you move on, make sure you can answer the following questions:
    validation errors will be handled if we use `create` vs. `create!`?
 2. In the following line of code, what is the `invalid` variable and how can we
    use it: `rescue ActiveRecord::RecordInvalid => invalid`?
+
+
+   ## Check For Understanding
+
+Before you move on, make sure you can answer the following questions:
+
+1. If we have Active Record validations in place, what is the difference in how
+   validation errors will be handled if we use `create` vs. `create!`?
+2. In the following line of code, what is the `invalid` variable and how can we
+   use it: `rescue ActiveRecord::RecordInvalid => invalid`?
